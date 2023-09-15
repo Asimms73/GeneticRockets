@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.selectionBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.choice{
+    margin: 3px 5px;
+}
